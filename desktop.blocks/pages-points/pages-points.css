@@ -1,0 +1,6 @@
+@import "../point-number/point-number.css";
+.pages-points{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
